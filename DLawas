@@ -1,1 +1,226 @@
-
+{
+  "-P1hOwcaXQuxV4hRUnPf": {
+    "device_id": "2DA0DBAB79856EC0",
+    "expiry": "2026-10-17"
+  },
+  "-P1jB1xwQZs_UtdiarZF": {
+    "device_id": "8e984195d6954733",
+    "expiry": "2026-10-18"
+  },
+  "-P1m0AW1ZKL-evqac5T5": {
+    "device_id": "DC32FDC15E043981",
+    "expiry": "2026-10-18"
+  },
+  "-P1mJB3wGFH0p5E_5aXD": {
+    "device_id": "68cc73459fe56a23",
+    "expiry": "2026-10-18"
+  },
+  "-P1n3WoEiSquqM0Gk6Ig": {
+    "device_id": "f54043edccdf44ab",
+    "expiry": "2026-10-18"
+  },
+  "-P1nK_zxWwIyHc6UeZfu": {
+    "device_id": "2af8029a52a830f5",
+    "expiry": "2026-10-18"
+  },
+  "-P1nWi0gK_-bS-f9OxGZ": {
+    "device_id": "331e3c8a58213fce",
+    "expiry": "2026-10-18"
+  },
+  "-P1nYobL9TTviwztUU9Q": {
+    "device_id": "86e3d9a157fab84d",
+    "expiry": "2026-09-27"
+  },
+  "-P1ntuM6E0OHJ0dl4qAZ": {
+    "device_id": "46d1fa498d637ab0",
+    "expiry": "2026-10-18"
+  },
+  "-P1oj_EqWSOgl9vUUBO7": {
+    "device_id": "F38DB2FB1E321F8A",
+    "expiry": "2026-10-03"
+  },
+  "-P1oryAa2iW97f3xBOPm": {
+    "device_id": "3d0eb1af597d0105",
+    "expiry": "2026-09-30"
+  },
+  "-P1osJJfPEfcpSsgYuGI": {
+    "device_id": "4EB51260AB26C3CB",
+    "expiry": "2026-09-26"
+  },
+  "-P1qsGXvbZDXQBphAIEd": {
+    "device_id": "a2a11139fb1f7c65",
+    "expiry": "2026-10-05"
+  },
+  "-P1rVwCDeWgNKRxP2tLn": {
+    "device_id": "0733c4505434baad",
+    "expiry": "2026-10-19"
+  },
+  "-P1t64pnsZfp5KETCQ7r": {
+    "device_id": "fa75d04bb1d18df8",
+    "expiry": "2026-10-19"
+  },
+  "-P1t8FeMxjnO_rvOJmS-": {
+    "device_id": "670588ed97950435",
+    "expiry": "2026-10-19"
+  },
+  "-P1wMIqvvtGWS5sqIFE_": {
+    "device_id": "c409072496d0dceb",
+    "expiry": "2026-10-20"
+  },
+  "-P1wWoeCz2olidNuXDq9": {
+    "device_id": "cf1bb02ddb944bba",
+    "expiry": "2026-10-20"
+  },
+  "-P1wZBo3LitZ7DQlN2UQ": {
+    "device_id": "cec6a55e7399a17a",
+    "expiry": "2026-09-28"
+  },
+  "-P1waFexYuaI-dVB_yOU": {
+    "device_id": "2885aab2a4f607de",
+    "expiry": "2026-10-20"
+  },
+  "-P1wgA0-aH0oR2gvay-g": {
+    "device_id": "54caf868a2c1ee1e",
+    "expiry": "2026-10-20"
+  },
+  "-P1wicC39e5bk2kUzhzd": {
+    "device_id": "0b1484401b4f7136",
+    "expiry": "2026-10-20"
+  },
+  "-P1woBkAl9HrhbmIg34F": {
+    "device_id": "740e5275ea72814e",
+    "expiry": "2026-10-20"
+  },
+  "-P1wpy6QyPADPXtguazV": {
+    "device_id": "8b9861042e995cbb",
+    "expiry": "2026-10-20"
+  },
+  "-P1wqKTfopvnGr3ACRtS": {
+    "device_id": "fab7bb9752941443",
+    "expiry": "2026-10-20"
+  },
+  "-P1xDOsLYIm1Rart0zCF": {
+    "device_id": "220a0aff267d8e77",
+    "expiry": "2026-10-20"
+  },
+  "-P1xE1xV4Bt_Y8I7JFua": {
+    "device_id": "5A49DE479EBB1BDC",
+    "expiry": "2026-10-10"
+  },
+  "-P1xJ75M09GLtYX4wVLc": {
+    "device_id": "9d3cf8bd4c0b593e",
+    "expiry": "2026-10-20"
+  },
+  "-P1xKWLCt2m2BaRIU93V": {
+    "device_id": "7e728f76b67a7291",
+    "expiry": "2026-10-20"
+  },
+  "-P1xOHszL5qjLCoF2KzR": {
+    "device_id": "809310522cb18ba5",
+    "expiry": "2026-10-20"
+  },
+  "-P1yWy4KNpWMBzVfGpwX": {
+    "device_id": "0ba8911d4c27f83e",
+    "expiry": "2026-10-20"
+  },
+  "-P1yrdWcWW0DiVWmRwXn": {
+    "device_id": "9d07973ad87e59ac",
+    "expiry": "2026-10-20"
+  },
+  "-P1ytKs986EjmaYFd5Ap": {
+    "device_id": "c92fa72a8bbeda9e",
+    "expiry": "2026-10-20"
+  },
+  "-P209-av2sOq0p679jtK": {
+    "device_id": "5c9656357a3e1bb5",
+    "expiry": "2026-10-21"
+  },
+  "-P20Z7goIwuHNVObRX_X": {
+    "device_id": "825f751c651762fc",
+    "expiry": "2026-10-21"
+  },
+  "-P20b6YvnPNA-7jkn1R6": {
+    "device_id": "d0a5b7c939f44c7c",
+    "expiry": "2026-10-21"
+  },
+  "-P20eZ2WL_vhfMTSchhZ": {
+    "device_id": "ddb295c74301210c",
+    "expiry": "2026-10-05"
+  },
+  "-P20x7IgsZRLUZTkAPNB": {
+    "device_id": "e2be1e010c7677cc",
+    "expiry": "2026-10-21"
+  },
+  "-P21CJIZn-wTYK7c0uLO": {
+    "device_id": "d8ecf373eb6bc4e6",
+    "expiry": "2026-10-21"
+  },
+  "-P21UusD1Ax-wGKHjg2y": {
+    "device_id": "2a4a1bcecaea9d29",
+    "expiry": "2026-10-21"
+  },
+  "-P22wtrMJ4zAALJLSw4I": {
+    "device_id": "daba23f01ff47593",
+    "expiry": "2026-10-21"
+  },
+  "-P25qUUaYjyGB9XFAPRQ": {
+    "device_id": "198971e1e5fa2d56",
+    "expiry": "2026-10-03"
+  },
+  "-P25w4hR2ZAi6SDOC8I6": {
+    "device_id": "0396bd489ef00988",
+    "expiry": "2026-10-22"
+  },
+  "-P26_LUU41kP1N8bV8Ns": {
+    "device_id": "c4be2c65a974bd55",
+    "expiry": "2026-10-22"
+  },
+  "-P2C-0dvEjdl3SzewwoY": {
+    "device_id": "F98CEF5F73964FD1",
+    "expiry": "2026-10-23"
+  },
+  "-P2Cz2Bum_0i7jOhDoOX": {
+    "device_id": "fd648571ccc6ef67",
+    "expiry": "2026-10-23"
+  },
+  "-P2DdaedRzVz2Ymmo7V8": {
+    "device_id": "6d3292ac20043082",
+    "expiry": "2026-10-23"
+  },
+  "-P2FiGWvl4CAtPF4AMM_": {
+    "device_id": "8CBC3F57253C6715",
+    "expiry": "2026-10-24"
+  },
+  "-P2Fj98dpe5wfcQ8FvuC": {
+    "device_id": "E3A324465E398B5B",
+    "expiry": "2026-10-24"
+  },
+  "-P2G01-Uzsy718K1U0B8": {
+    "device_id": "a3372b7c8c2e1de4",
+    "expiry": "2026-10-20"
+  },
+  "-P2G7Msa8mGy0DCvkJ_I": {
+    "device_id": "132a3fbef13e3535",
+    "expiry": "2026-10-24"
+  },
+  "-P2GtkK64RwfV0Jbp87_": {
+    "device_id": "e27c0de3cb3a4c3b",
+    "expiry": "2026-10-24"
+  },
+  "-P2HBu4KUKcTmuQeTUq8": {
+    "device_id": "275EE7129C3A6C03",
+    "expiry": "2026-10-24"
+  },
+  "-P2I-bPswPonSPIKNaIa": {
+    "device_id": "a9fffb6f32193eda",
+    "expiry": "2026-10-24"
+  },
+  "-P2Im71vZ9KYr_4hgWHM": {
+    "device_id": "b1a4919438e2ddc8",
+    "expiry": "2026-10-24"
+  },
+  "-P2KXaqI64HVOiDa8r-D": {
+    "device_id": "07DBD0DB7BFF62F1",
+    "expiry": "2026-10-25"
+  }
+}
